@@ -2,6 +2,11 @@
 abc
 xyz
 888
+<<<<<<< HEAD
 last modified on branch1
 modified on 2018/03/19 21:05
 modified on 2018/03/28 21:33
+=======
+999
+this is modified on 218/03/19 in branch of master.
+>>>>>>> origin/new_branch
